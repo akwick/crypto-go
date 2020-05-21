@@ -18,6 +18,7 @@ You can find the template usage in the corresponding go-file in the cmd package,
   - [Talk at Youtube (GopherCon 2016)](https://www.youtube.com/watch?v=2r_KMzXB74w)
   - [Code examples](https://github.com/gtank/cryptopasta)
 - The Gopher slack has a *crypto* channel which provides further information
+- [Gosec](https://github.com/securego/gosec) can check for some crypto misuses like a usage of MD5. 
 
 - Egele, M., Brumley, D., Fratantonio, Y., & Kruegel, C. (2013, November). An empirical study of cryptographic misuse in android applications. In Proceedings of the 2013 ACM SIGSAC conference on Computer & communications security (pp. 73-84).
 [Paper](https://dl.acm.org/doi/pdf/10.1145/2508859.2516693)
