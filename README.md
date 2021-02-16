@@ -1,6 +1,6 @@
 # crypto-go
 
-Code examples and slides for the talk: "Crypto Fails and How to Tackle Them in Go" at go get -u community conference in May 2020.
+Code examples and [slides](./20200521_Crypto-Fails-and-how-to-tackle-them-in-go.pdf) for the talk: "Crypto Fails and How to Tackle Them in Go" at [go get -u community conference in May 2020](https://gogetcommunity.com/).
 
 ## Try out the two code examples
 
